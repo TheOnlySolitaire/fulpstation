@@ -48,9 +48,9 @@
 ///Check if we are indeed a Beefman
 #define isbeefman(A) (is_species(A, /datum/species/beefman))
 ///Job define for the Beefmen Cytology (Icemoon) Spawner
-#define ROLE_BEEFMAN_CYTOLOGY "Beefman Cytology Scientist"
+#define ROLE_BEEFMAN_CYTOLOGY "Beefman Cytology"
 ///Job define for the Beefmen Station (Space) Spawner
-#define ROLE_BEEFMAN_STATION "Beefman Station Inhabitant"
+#define ROLE_BEEFMAN_STATION "Beefman Station"
 
 
 /**
