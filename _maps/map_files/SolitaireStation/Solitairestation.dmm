@@ -18023,8 +18023,7 @@
 /turf/open/floor/iron,
 /area/cargo/warehouse)
 "eQz" = (
-/obj/machinery/cell_charger,
-/obj/structure/table,
+/obj/structure/closet/toolcloset,
 /turf/open/floor/plating,
 /area/maintenance/port/aft)
 "eQE" = (
@@ -41268,7 +41267,8 @@
 /turf/open/floor/iron,
 /area/hallway/primary/central/aft)
 "lxj" = (
-/obj/structure/closet/crate/trashcart/laundry,
+/obj/machinery/cell_charger,
+/obj/structure/table,
 /turf/open/floor/plating,
 /area/maintenance/port/aft)
 "lxp" = (
@@ -72888,7 +72888,7 @@
 /turf/open/floor/iron/dark,
 /area/ai_monitored/command/nuke_storage)
 "vbI" = (
-/obj/structure/closet/toolcloset,
+/obj/structure/closet/crate/trashcart/laundry,
 /turf/open/floor/plating,
 /area/maintenance/port/aft)
 "vca" = (
@@ -103567,7 +103567,7 @@ rkv
 rkv
 rkv
 rkv
-rkv
+vbI
 pFH
 xOw
 xOw
@@ -109473,7 +109473,7 @@ rkv
 rkv
 rkv
 rkv
-rkv
+lxj
 pCI
 xOw
 meC
@@ -109729,7 +109729,7 @@ rkv
 rkv
 rkv
 rkv
-rkv
+eQz
 pCI
 pCI
 xOw
@@ -109970,7 +109970,7 @@ kEo
 vdL
 vtT
 pCI
-rkv
+oHd
 rkv
 rGG
 wHa
@@ -110236,7 +110236,7 @@ pCI
 pCI
 pCI
 pCI
-lxj
+nWT
 rkv
 ccz
 bPs
@@ -110492,8 +110492,8 @@ wSK
 xda
 xnq
 pCI
-nWT
-oHd
+rkv
+rkv
 rkv
 ccz
 ocN
@@ -110750,7 +110750,7 @@ xdH
 xoa
 pCI
 xSe
-eQz
+pCI
 rkv
 ccz
 hPm
@@ -111007,7 +111007,7 @@ wSR
 wSR
 pCI
 xSe
-vbI
+pCI
 rkv
 ccz
 ocN
@@ -111264,7 +111264,7 @@ wSR
 wSR
 pCI
 rkv
-rkv
+pCI
 rkv
 ccz
 ocN
