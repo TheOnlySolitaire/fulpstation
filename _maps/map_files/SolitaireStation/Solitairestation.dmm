@@ -27616,7 +27616,7 @@
 /turf/open/floor/circuit/telecomms/mainframe,
 /area/tcommsat/server)
 "hFc" = (
-/obj/structure/table/glass,
+/obj/structure/tank_holder/oxygen/red,
 /turf/open/floor/iron/dark/telecomms,
 /area/tcommsat/server)
 "hFd" = (
