@@ -8748,7 +8748,7 @@
 "cxo" = (
 /obj/item/clothing/suit/costume_2019/ketchup,
 /turf/open/floor/plating,
-/area/space/nearstation)
+/area/maintenance/department/eva)
 "cxq" = (
 /obj/structure/chair/plastic{
 	dir = 4
@@ -10138,9 +10138,6 @@
 	},
 /turf/open/floor/iron,
 /area/engineering/atmos)
-"cNs" = (
-/turf/closed/wall,
-/area/hallway/primary/fore)
 "cNA" = (
 /obj/machinery/door/poddoor/preopen{
 	id = "atmos";
@@ -40959,7 +40956,7 @@
 	dir = 4
 	},
 /turf/closed/wall,
-/area/cargo/sorting)
+/area/maintenance/department/cargo)
 "lrR" = (
 /obj/effect/turf_decal/tile/blue/anticorner{
 	color = "#4169E1";
@@ -43789,7 +43786,7 @@
 	},
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
-/area/hallway/primary/central/fore)
+/area/maintenance/department/crew_quarters/bar)
 "mkB" = (
 /obj/effect/turf_decal/bot_white/right,
 /obj/effect/turf_decal/tile/blue{
@@ -48174,7 +48171,7 @@
 "nAu" = (
 /obj/item/clothing/suit/costume_2019/mustard,
 /turf/open/floor/plating,
-/area/space/nearstation)
+/area/maintenance/department/eva)
 "nAA" = (
 /obj/effect/turf_decal/trimline/blue/line{
 	dir = 4
@@ -105776,7 +105773,7 @@ cKc
 fEy
 fKb
 nIK
-yfo
+kof
 meC
 meC
 meC
@@ -110675,13 +110672,13 @@ hRZ
 hRZ
 hRZ
 hRZ
-kfj
+yfo
 pMK
-kfj
-kfj
-kfj
+yfo
+yfo
+yfo
 lrO
-kfj
+yfo
 ayB
 jOC
 jWD
@@ -110931,7 +110928,7 @@ nuW
 rmD
 rTh
 aBo
-hRZ
+yfo
 fpO
 mrF
 iNV
@@ -111188,14 +111185,14 @@ hKc
 qkm
 nzP
 wyP
-hRZ
+yfo
 uFa
-pSQ
-pSQ
-pSQ
-pSQ
-pSQ
-pSQ
+yfo
+yfo
+yfo
+yfo
+yfo
+yfo
 ayB
 pPX
 hoK
@@ -111433,21 +111430,21 @@ hwr
 eGY
 uFa
 yfo
-hRZ
-hRZ
-hRZ
-hRZ
-hRZ
-hRZ
+yfo
+yfo
+yfo
+yfo
+yfo
+yfo
 xsB
 hRZ
 hKd
 vLD
 wQk
 hRZ
-hRZ
+yfo
 uFa
-pSQ
+yfo
 iOj
 iZA
 jkF
@@ -111657,7 +111654,7 @@ acl
 acl
 acl
 acl
-yjW
+acl
 beq
 beu
 beu
@@ -111697,11 +111694,11 @@ fKZ
 bJw
 hsa
 hyD
-hRZ
-hRZ
-hRZ
-hRZ
-hRZ
+yfo
+yfo
+yfo
+yfo
+yfo
 fKZ
 uTd
 iBG
@@ -111914,7 +111911,7 @@ aJe
 aLl
 aOe
 aRa
-yjW
+acl
 beq
 bez
 beq
@@ -111961,7 +111958,7 @@ vcA
 vcA
 vcA
 vcA
-pSQ
+yfo
 gDR
 jaH
 jli
@@ -112208,16 +112205,16 @@ fMg
 gMC
 gMC
 gMC
-tGb
-cNs
+hwr
+yfo
 emI
 yfo
-cNs
-cNs
-cNs
-cNs
-cNs
-cNs
+yfo
+yfo
+yfo
+yfo
+yfo
+yfo
 pSQ
 iPu
 jaT
@@ -112461,11 +112458,11 @@ fWL
 gem
 tGb
 tGb
-tGb
-tGb
-tGb
-tGb
-tGb
+hwr
+hwr
+hwr
+hwr
+hwr
 hss
 gMF
 hEE
@@ -115839,7 +115836,7 @@ xlb
 mZW
 xlb
 xwo
-wDW
+lLe
 qsc
 bvh
 tAx
@@ -116353,7 +116350,7 @@ xlb
 mZW
 lRX
 mdg
-wDW
+lLe
 lIw
 lIw
 mHq
@@ -116610,7 +116607,7 @@ xlb
 mZW
 lUx
 wDW
-wDW
+lLe
 uBm
 uBm
 xjl
@@ -118923,10 +118920,10 @@ xlb
 wQX
 xlb
 sKX
-yhb
-yhb
-yhb
-yhb
+lLe
+lLe
+lLe
+lLe
 lLe
 ydZ
 lLe
@@ -132078,7 +132075,7 @@ vSh
 wdO
 wpx
 wBl
-lDo
+uUl
 uUl
 uUl
 xHv
@@ -132335,7 +132332,7 @@ vSm
 wea
 wpW
 wBl
-lDo
+uUl
 wZS
 xkg
 xHv
@@ -132592,7 +132589,7 @@ uAI
 wdK
 wqT
 wCa
-lDo
+uUl
 oDb
 oDb
 oDb
@@ -132849,7 +132846,7 @@ uAI
 ueP
 sKq
 nNU
-lDo
+uUl
 oDb
 dMv
 bCS
@@ -133106,7 +133103,7 @@ uUl
 uUl
 uUl
 uUl
-lDo
+uUl
 cgw
 uBd
 uAj
@@ -134925,7 +134922,7 @@ eqd
 iWy
 nfA
 nfA
-meC
+xOw
 xOw
 lIJ
 khL
@@ -135182,8 +135179,8 @@ wSL
 kPh
 nhS
 nfA
-meC
-meC
+xOw
+xOw
 lIJ
 lIJ
 lIJ
